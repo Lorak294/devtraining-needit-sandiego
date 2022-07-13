@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Important Information" section_id="222f538f1ba4511083a5a793604bcbab" sys_domain="global" table="sys_user" version="3" view="more_info">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>password_needs_reset</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-12 12:22:26</sys_created_on>
+            <sys_id>8b2f938f1ba4511083a5a793604bcb56</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Important Information" display_value="Important Information" name="sys_user" sys_domain="global" view="b27d5b8b1ba4511083a5a793604bcb74">222f538f1ba4511083a5a793604bcbab</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-12 12:22:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-12 12:22:26</sys_created_on>
+            <sys_id>0f2f938f1ba4511083a5a793604bcb56</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Important Information" display_value="Important Information" name="sys_user" sys_domain="global" view="b27d5b8b1ba4511083a5a793604bcb74">222f538f1ba4511083a5a793604bcbab</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-12 12:22:26</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>phone</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-12 12:22:26</sys_created_on>
+            <sys_id>8f2f938f1ba4511083a5a793604bcb56</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Important Information" display_value="Important Information" name="sys_user" sys_domain="global" view="b27d5b8b1ba4511083a5a793604bcb74">222f538f1ba4511083a5a793604bcbab</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-12 12:22:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mobile_phone</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-12 12:22:26</sys_created_on>
+            <sys_id>032f938f1ba4511083a5a793604bcb57</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Important Information" display_value="Important Information" name="sys_user" sys_domain="global" view="b27d5b8b1ba4511083a5a793604bcb74">222f538f1ba4511083a5a793604bcbab</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-12 12:22:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Important Information</caption>
+            <header>false</header>
+            <name>sys_user</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-12 12:22:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>222f538f1ba4511083a5a793604bcbab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_user</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_section_222f538f1ba4511083a5a793604bcbab</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-12 12:22:25</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="More Info" name="more_info">b27d5b8b1ba4511083a5a793604bcb74</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
